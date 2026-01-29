@@ -12,8 +12,9 @@
  * Policy Writer: Lukesh Singh
  * Standards specialist: Bharath Vinayak
  * Scrum Master: Sneha
- * Documentation lead: Sumit Patil   
-3. Decided to prepare prompts and discuss in the next meeting.
+ * Documentation lead: Sumit Patil
+3. Shared our thoughts and understanding of the topic to each of us.
+4. Decided to prepare prompts and discuss in the next meeting.
    
 ## Day 7 - [28 Jan 2026]
 **Attendees:** [ Bharath, Lukesh, Sneha, Sumit]
