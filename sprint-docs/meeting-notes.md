@@ -2,7 +2,7 @@
 # Meeting Notes
 
 ## Sprint Planning 
-# Day 1- [21 Jan 2026]
+## Day 1- [21 Jan 2026]
 **Attendees:** [ Bharath, Lukesh, Sneha, Sumit]
 **Duration:** [1 hour 30 minutes]
 
@@ -14,7 +14,8 @@
  * Scrum Master: Sneha
  * Documentation lead: Sumit Patil   
 3. Decided to prepare prompts and discuss in the next meeting.
-# Day 7 - [28 Jan 2026]
+   
+## Day 7 - [28 Jan 2026]
 **Attendees:** [ Bharath, Lukesh, Sneha, Sumit]
 **Duration:** [2 hours ]
 **Decisions Made:**
