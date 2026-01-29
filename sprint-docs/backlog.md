@@ -20,3 +20,5 @@
 - [x] Raw document is created for Policy framework document. - Lukesh Singh - 6 hours
   - 25 Jan 2026
 
+- [x] Raw document is created for Policy Compliance Checklist . - Sumit Patil -4 hours
+  - 29 Jan 2026
