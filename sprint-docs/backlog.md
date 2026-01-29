@@ -6,10 +6,8 @@
 - [ ] 
 - 
 ## In Progress
-- [ ] Learn and gather information on the standard formats for the deliverables - sneha - 2 hours
-  - Started: [date]
-    
-  - [ ] Research on policy framework document and policy document is in progress. Collecting information from different sources. It's in progress. Research phase ongoing.
+- [ ] Learn and gather information on the standard formats for the deliverables - sneha - 2 hours - Started: [24 Jan 2026]    
+- [ ] Research on policy framework document and policy document is in progress. Collecting information from different sources. It's in progress. Research phase ongoing.
   - Lukesh Singh - 4 hours
   - 24 Jan 2026
 
