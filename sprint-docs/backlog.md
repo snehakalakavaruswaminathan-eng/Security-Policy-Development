@@ -1,8 +1,8 @@
 # Sprint 1 Backlog
 
 ## To Do
-- [ ] Research the various topics using prompts on the topic chosen. Learn to create the Github Repository and prepare the folder structure - Sneha - 3 hours      
 - [ ] Research and create the raw policy framework document and policy document for Access Control Policy. - Lukesh Singh - 6-7 hours
+- [ ] Research on the various topics using prompts on the topic chosen. Learn to create the Github Repository and prepare the folder structure - Sneha - 3 hours      
 - [ ] 
 - 
 ## In Progress
@@ -14,7 +14,7 @@
 ## Done
 - [x] Raw document is created for Policy framework document. - Lukesh Singh - 6 hours
   - 25 Jan 2026
-- [x] Created github repository and started to commit the changes in the repository - sneha - 2 hour
+- [x] Created github repository and started to commit the changes in the repository - sneha - 1 hour
   - Completed: [26 Jan 2026]
 - [x] Raw document is created for Policy Compliance Checklist . - Sumit Patil -4 hours
   - 29 Jan 2026
