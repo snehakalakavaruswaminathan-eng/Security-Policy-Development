@@ -19,10 +19,16 @@
 **Attendees:** [ Bharath, Lukesh, Sneha, Sumit]
 **Duration:** [2 hours ]
 **Decisions Made:**
-1. Shared everyone's ideas and information gathered for the one week.
+1. Shared everyone's ideas and information gathered for the past one week.
 2. Discussed about the sub topics and details to be included in the various documents or the deliverables based on each of our prompt results.
-3. Shared the topics
-    
+
+## Day 12 - [01 Feb 2026]
+**Attendees:** [ Bharath, Lukesh, Sneha, Sumit]
+**Duration:** [1 hour ]
+**Decisions Made:**
+1. Reviewed the documents prepared
+2. Discussed points for the presentation and diagrams.
+
 **Daily Standups**
 ### Day 2- 22 Jan 2026
   @Bharath -
