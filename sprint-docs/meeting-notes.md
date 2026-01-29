@@ -18,9 +18,10 @@
 **Attendees:** [ Bharath, Lukesh, Sneha, Sumit]
 **Duration:** [2 hours ]
 **Decisions Made:**
-1. Shared everyone's ideas and information gathered 
+1. Shared everyone's ideas and information gathered for the one week.
 2. Discussed about the sub topics and details to be included in the various documents or the deliverables based on each of our prompt results.
-
+3. Shared the topics
+    
 **Daily Standups**
 Day 2- 22 Jan 2026
   @Bharath -
@@ -55,12 +56,12 @@ Day 3 - 23 Jan 2026
  Day 8 - 28 Jan 2026 
   @Bharath -
   @Lukesh - 
-  @Sneha - Did research on the security policy document and the training document
+  @Sneha - Did research on the security policy document and the training document. Prepared a sample document for training requirements using AI prompts.
   @Sumit - 
 Day 9 - 29 Jan 2026
  @Bharath -
  @Lukesh - 
- @Sneha - Prepared the document for training requirements using prompts.
+ @Sneha -
  @Sumit - 
 Day 10 - 30 Jan 2026
  @Bharath -
@@ -87,3 +88,15 @@ Day 14 - 03 Feb 2026
  @Lukesh -
  @Sneha -
 @Sumit - 
+
+
+# Feedback from Instructor
+•	Positive: [feedback]
+•	Improve: [feedback]
+# Adjustments Made
+6.	[Change based on feedback]
+# Sprint Review - Day 14
+# Questions Asked
+•	[Question 1] - Our response: [answer]
+# Feedback Received
+•	[Feedback from instructor/classmates]
