@@ -1,4 +1,5 @@
 # Prompt 1
+## Date : 24 Jan 2026 - ChatGPT Prompt Optimizer
 ### Role & Context
   You are the Policy maker of an organization that manages digital assets, sensitive customer information, and financial data. The organization operates in a regulated   environment and must protect against cyber threats, fraud, data breaches, and operational risks.
 ### Task
