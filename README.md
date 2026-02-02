@@ -8,9 +8,12 @@ Sprint 1 Project for IIT Roorkee PG Certification in AI-Enabled Cybersecurity
 - Sneha : Scrum Master
 - Sumit Patil : Documentation lead 
 
-## Project Overview
 ### Topic
     Access Control Policy - Authentication requirements, authorization procedures, access reviews
+
+## Overview
+"This repository contains the documentation and resources for the Security Policy Development on Access Control Policy. The objective of this work is to design a structured policy framework that defines how access to systems, data, and resources is granted, monitored, and revoked. The policy emphasizes principles such as least privilege, role-based access, authentication standards, and audit mechanisms to ensure confidentiality, integrity, and availability of information assets. All assignment deliverables, including the policy, framework, guidelines and checklists and the supporting diagrams are organized within this repository."
+
 ## Key Findings
 - [Brief finding 1]
 - [Brief finding 2]
@@ -33,15 +36,10 @@ Security-Policy-Development
     └── Sumit-prompts.md
 ```
 
-## AI Tools Used
-- ChatGPT (Free) - General research, writing assistance
-- Google Gemini - Recent information, web access
-- Perplexity - Research with citations
-
 ### AI Tools Used
-Prompt Optimization: ChatGPT, OpenAI
-Research and Writing Assistance: Gemini, Claude, 
-Diagrams and slides: Napkin, Gamma 
+#### Prompt Optimization: ChatGPT, OpenAI
+#### Research and Writing Assistance: Gemini, Claude, 
+#### Diagrams and slides: Napkin, Gamma 
 
  
 
