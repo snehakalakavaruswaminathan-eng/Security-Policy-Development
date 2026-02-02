@@ -3,24 +3,26 @@
 Sprint 1 Project for IIT Roorkee PG Certification in AI-Enabled Cybersecurity
 
 ## Team
-- Lukesh Singh - Policy Writer 
-- Bharath Vinayak - Standards specialist
-- Sneha - Scrum Master: Sneha
-- Sumit Patil - Documentation lead 
-
-- [Name] - Scrum Master
-- [Name] - Threat Researcher
-- [Name] - Defense Analyst
-- [Name] - GitHub Lead
+- Lukesh Singh : Policy Writer 
+- Bharath Vinayak : Standards specialist
+- Sneha : Scrum Master
+- Sumit Patil : Documentation lead 
 
 ## Project Overview
-Access Control Policy
-Authentication requirements, authorization procedures, access reviews
+### Topic
+    Access Control Policy - Authentication requirements, authorization procedures, access reviews
+### Key Findings 
 
+### CIA Triad Impact
 
-This repository contains our security analysis research on [Topic],
+### AI Tools Used
+Prompt Optimization: ChatGPT
+Research: Gemini, Claude, 
+Diagrams: Napkin
+
+### This repository contains our security analysis research on [Topic],
 completed during Sprint 1 (2 weeks). We used AI tools (ChatGPT, Gemini,
-Perplexity) for research and documented our process using Agile methodology.
+Claude, Napkin) for research and documented our process using Agile methodology.
 
 ## Key Findings
 - [Brief finding 1]
@@ -29,6 +31,7 @@ Perplexity) for research and documented our process using Agile methodology.
 
 ## Repository Structure
 ```
+Security-Policy-Development
 ├── README.md
 ├── report/
 │   └── final-report.pdf
@@ -37,12 +40,18 @@ Perplexity) for research and documented our process using Agile methodology.
 │   ├── meeting-notes.md
 │   └── retrospective.md
 └── prompt-logs/
-    └── [member]-prompts.md
+    └── Bharath-prompts.md
+    └── Lukesh-prompts.md
+    └── Sneha-prompts.md
+    └── Sumit-prompts.md
 ```
 
 ## AI Tools Used
 - ChatGPT (Free) - General research, writing assistance
 - Google Gemini - Recent information, web access
 - Perplexity - Research with citations
+
+
+ 
 
 
