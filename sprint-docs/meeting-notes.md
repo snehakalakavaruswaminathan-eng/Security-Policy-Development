@@ -16,14 +16,14 @@
 3. Shared our thoughts and understanding of the topic to each of us.
 4. Decided to prepare prompts and discuss in the next meeting.
    
-## Day 7 - [28 Jan 2026]
+## Day 7 - [28 Jan 2026] - Mid sprint review
 **Attendees:** [ Bharath, Lukesh, Sneha, Sumit]
 **Duration:** [2 hours ]
 **Decisions Made:**
 1. Shared everyone's ideas and information gathered for the past one week by prompting.
 2. Discussed about the sub topics and details to be included in the various documents or the deliverables based on each of our prompt results.
 
-## Day 12 - [01 Feb 2026]
+## Day 12 - [01 Feb 2026] - Sprint 2 review
 **Attendees:** [ Bharath, Lukesh, Sneha, Sumit]
 **Duration:** [1 hour ]
 **Decisions Made:**
