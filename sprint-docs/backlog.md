@@ -9,7 +9,7 @@
 - [ ] Research on policy framework document and policy document is in progress. Collecting information from different sources. It's in progress. Research phase ongoing - Lukesh Singh - 4 hours. Started: 24 Jan 2026
 - [ ]
 ## Done
-- [x] Raw document is created for Policy framework document. - Lukesh Singh - 6 hours
+- [x] Raw document is created for Policy framework document. - Lukesh Singh - 7 hours
   - 25 Jan 2026
 - [x] Created github repository and started to commit the changes in the repository - sneha - 1 hour
   - Completed: [26 Jan 2026]
@@ -30,8 +30,11 @@
 - [ ] Review, refine, and finalize the Implementation Guidelines document using the raw inputs provided by teammates, ensuring consistency with the Access Control Policy Framework.
   - Sumit Patil
   - [05 Feb 2026]
+  - [ ] Create the implementation guidelines, Policy methodology and access control policy document information and researched through Chat Gpt, Google Gemini and Claude and reviewed the responses from each with the team. - Lukesh Singh - 14 hours
+  - [01 Feb 2026]
+  - 
 ## In Progress
-- [ ] 
+- [ ] Policy methodology document information is collected, and now reviewing and organizing. - Lukesh Singh - 5 hours
 ## Done
 - [x] Created the final version of the Access Control Policy Document by refining and structuring the raw draft provided by teammates to meet governance and academic standards
   - Sumit Patil
@@ -39,3 +42,6 @@
 - [x] Created the final version of the Access Control Policy Framework Document by consolidating, validating, and professionally formatting the raw inputs received from teammates.
   - Sumit Patil
   - Completed [02 Feb 2026]
+  - [x] Completed the implementation guidelines and acces control core policy document information and researched through Chat Gpt, Google Gemini and Claude and reviewed the responses from each with the team.  Lukesh Singh - 11 hours
+  -  Completed  [02 Feb 2026]
+        
