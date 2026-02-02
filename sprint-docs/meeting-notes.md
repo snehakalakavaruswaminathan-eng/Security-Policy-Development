@@ -69,33 +69,33 @@
 ### Day 9 - 29 Jan 2026
  @Bharath -
  @Lukesh - 
- @Sneha -
+ @Sneha - Created diagrams for the architectures described in security policy document. 
  @Sumit - 
 ### Day 10 - 30 Jan 2026
  @Bharath -
  @Lukesh - 
- @Sneha - Nil
+ @Sneha - Revised the training requirements document with changes as dicussed in the meeting 
  @Sumit - 
 ### Day 11 - 31 Jan 2026
  @Bharath -
  @Lukesh - 
- @Sneha -
+ @Sneha - Nil
  @Sumit - 
 ### Day 12 - 01 Feb 2026
  @Bharath -
- @Lukesh - 
- @Sneha -
+ @Lukesh - Reviewed all the documents designed and discussed with the team members. 
+ @Sneha - 
  @Sumit - 
 ### Day 13 - 02 Feb 2026
  @Bharath -
  @Lukesh - 
- @Sneha -
+ @Sneha - Nil
  @Sumit - 
 ### Day 14 - 03 Feb 2026
  @Bharath -
  @Lukesh -
  @Sneha -
-@Sumit - 
+ @Sumit - 
 
 
 # Feedback from Instructor
