@@ -17,12 +17,25 @@
   - 29 Jan 2026
 - [x] Prepared the training requirements document - sneha - 1 hour
   - Completed: [27 Jan 2026]
+- [x] Researched Access Review concepts and practices and incorporated the findings into the Access Control Policy Document to strengthen governance and compliance coverage.
+  - Sumit Patil
+  - Completed [31 Jan 2026]
 
 
 # Sprint 2 Backlog
 ## To Do
-- [ ]  
+- [ ]  Finalize the Policy Compliance Checklist document based on approved policy and framework requirements.
+  - Sumit Patil
+  - [04 Feb 2026]
+- [ ] Review, refine, and finalize the Implementation Guidelines document using the raw inputs provided by teammates, ensuring consistency with the Access Control Policy Framework.
+  - Sumit Patil
+  - [05 Feb 2026]
 ## In Progress
 - [ ] 
 ## Done
-- [x] 
+- [x] Created the final version of the Access Control Policy Document by refining and structuring the raw draft provided by teammates to meet governance and academic standards
+  - Sumit Patil
+  - Completed [01 Feb 2026]
+- [x] Created the final version of the Access Control Policy Framework Document by consolidating, validating, and professionally formatting the raw inputs received from teammates.
+  - Sumit Patil
+  - Completed [02 Feb 2026]
