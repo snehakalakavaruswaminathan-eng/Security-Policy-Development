@@ -11,19 +11,6 @@ Sprint 1 Project for IIT Roorkee PG Certification in AI-Enabled Cybersecurity
 ## Project Overview
 ### Topic
     Access Control Policy - Authentication requirements, authorization procedures, access reviews
-### Key Findings 
-
-### CIA Triad Impact
-
-### AI Tools Used
-Prompt Optimization: ChatGPT
-Research: Gemini, Claude, 
-Diagrams: Napkin
-
-### This repository contains our security analysis research on [Topic],
-completed during Sprint 1 (2 weeks). We used AI tools (ChatGPT, Gemini,
-Claude, Napkin) for research and documented our process using Agile methodology.
-
 ## Key Findings
 - [Brief finding 1]
 - [Brief finding 2]
@@ -51,6 +38,10 @@ Security-Policy-Development
 - Google Gemini - Recent information, web access
 - Perplexity - Research with citations
 
+### AI Tools Used
+Prompt Optimization: ChatGPT, OpenAI
+Research and Writing Assistance: Gemini, Claude, 
+Diagrams and slides: Napkin, Gamma 
 
  
 
