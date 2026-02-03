@@ -39,3 +39,23 @@ Avoid unnecessary technical jargon unless clearly explained
 Give the document as downloadable pdf file.
 Optional
 Include a short Executive Summary and a Risk-Based Approach section explaining how controls are prioritized.
+
+
+# Prompt 2
+## Date : 01 Feb 2026 - Gemini Prompt Optimizer
+### Overview: 
+Design a comprehensive Access Control Governance and Maintenance Policy that establishes a clear governance structure. The policy should define ownership and accountability for access control decisions, outline regular review cycles for user access rights, and specify procedures for exception handling (including approval workflows and documentation). Additionally, the policy must include compliance monitoring mechanisms to ensure adherence to regulatory requirements, internal standards, and audit readiness. The final output should provide a structured framework that balances security, usability, and operational efficiency.
+### Key Elements to Include in the Policy
+Ownership & Accountability
+Define roles (e.g., Policy Owner, System Administrators, Business Owners).
+Assign responsibilities for policy enforcement and updates.
+Review Cycles
+Establish periodic reviews (quarterly, semi-annual, annual).
+Include triggers for ad-hoc reviews (e.g., role changes, system upgrades).
+Exception Handling
+Document approval processes for exceptions.
+Require justification, risk assessment, and expiration dates for exceptions.
+Compliance Monitoring
+Implement automated monitoring tools.
+Schedule audits and generate compliance reports.
+Track remediation of non-compliance issues.
