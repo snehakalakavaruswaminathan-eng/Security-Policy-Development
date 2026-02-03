@@ -30,7 +30,7 @@
 - [ ] Review, refine, and finalize the Implementation Guidelines document using the raw inputs provided by teammates, ensuring consistency with the Access Control Policy Framework.
   - Sumit Patil
   - [05 Feb 2026]
-  - [ ] Create the implementation guidelines, Policy methodology and access control policy document information and researched through Chat Gpt, Google Gemini and Claude and reviewed the responses from each with the team. - Lukesh Singh - 14 hours
+- [ ] Create the implementation guidelines, Policy methodology and access control policy document information and researched through Chat Gpt, Google Gemini and Claude and reviewed the responses from each with the team. - Lukesh Singh - 14 hours
   - [01 Feb 2026]
   - 
 ## In Progress
@@ -42,6 +42,6 @@
 - [x] Created the final version of the Access Control Policy Framework Document by consolidating, validating, and professionally formatting the raw inputs received from teammates.
   - Sumit Patil
   - Completed [02 Feb 2026]
-  - [x] Completed the implementation guidelines and acces control core policy document information and researched through Chat Gpt, Google Gemini and Claude and reviewed the responses from each with the team.  Lukesh Singh - 11 hours
+- [x] Completed the implementation guidelines and acces control core policy document information and researched through Chat Gpt, Google Gemini and Claude and reviewed the responses from each with the team.  Lukesh Singh - 11 hours
   -  Completed  [02 Feb 2026]
         
