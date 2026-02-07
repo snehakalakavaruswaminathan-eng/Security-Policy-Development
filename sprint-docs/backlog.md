@@ -1,7 +1,9 @@
 # Sprint 1 Backlog
 ## To Do
-- [ ] Research and create the raw policy framework document and policy document for Access Control Policy. - Lukesh Singh - 6-7 hours
-- [ ] Research on the various topics using prompts on the topic chosen. Learn to create the Github Repository and prepare the folder structure. - Sneha - 3 hours      
+- [ ] Research and create the raw policy framework document and policy document for Access Control Policy.
+    -  Lukesh Singh - 6-7 hours
+- [ ] Research on the various topics using prompts on the topic chosen. Learn to create the Github Repository and prepare the folder structure.
+  - Sneha - 3 hours      
 - [ ] Creating a professional Access Control Policy involves two distinct components: the Policy Framework, which provides the strategic methodology and structure, and       the Policy Document, which defines the specific rules and expectations - Bharath Vinayak - 2hours.
 ## In Progress
 - [ ] Learning and gathering more information on the subtopics discussed and checking the standard formats for the deliverables - sneha - 2 hours - Started: [24 Jan 2026]   
