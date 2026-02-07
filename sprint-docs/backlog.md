@@ -3,12 +3,10 @@
 - [ ] Research and create the raw policy framework document and policy document for Access Control Policy. - Lukesh Singh - 6-7 hours
 - [ ] Research on the various topics using prompts on the topic chosen. Learn to create the Github Repository and prepare the folder structure. - Sneha - 3 hours      
 - [ ] Creating a professional Access Control Policy involves two distinct components: the Policy Framework, which provides the strategic methodology and structure, and       the Policy Document, which defines the specific rules and expectations - Bharath Vinayak - 2hours.
-- [ ]
 ## In Progress
 - [ ] Learning and gathering more information on the subtopics discussed and checking the standard formats for the deliverables - sneha - 2 hours - Started: [24 Jan 2026]   
 - [ ] Research on policy framework document and policy document is in progress. Collecting information from different sources. It's in progress. Research phase ongoing - Lukesh Singh - 4 hours. Started: 24 Jan 2026
 - [ ] The initiative is currently in the comprehensive research phase, where multi-source data is being synthesized to establish a robust Policy Framework and a formalized Policy Document. Efforts are focused on benchmarking against global standards (such as ISO 27001 and NIST) to ensure the deliverables meet institutional quality requirements and maintain academic and professional integrity - Bharath Vinayak - 2hours
-- [ ]
 ## Done
 - [x] Raw document is created for Policy framework document. - Lukesh Singh - 7 hours - 25 Jan 2026
 - [x] Created github repository and started to commit the changes in the repository. Experimented with various AI tools. - sneha - 2 hours - Completed: [26 Jan 2026]
