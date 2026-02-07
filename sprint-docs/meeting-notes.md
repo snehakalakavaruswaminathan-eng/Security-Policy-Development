@@ -32,67 +32,67 @@
 
 **Daily Standups**
 ### Day 2- 22 Jan 2026
-  @Bharath -
+  @Bharath - Completed an initial deep-dive into Agile frameworks to streamline our development workflow. Currently conducting a comprehensive review of Access                      Control strategies
   @Lukesh - Started researching on the agile methodologies and github basics for projects. Blockers: None
   @sneha - Yesterday: Learnt about Agile methodology and the terms used. Today: Research the topics in access control policy Blockers: None
   @Sumit - 
 ### Day 3 - 23 Jan 2026
-  @Bharath -
+  @Bharath - Following an initial literature review of Access Control Policy (ACP) frameworks, I have now progressed to analyzing the specific standards that govern                 them. I am currently examining how international protocols ISO27001    and NIST framework - 
   @Lukesh - Started researching on the Access Control Policy framework document and reviewed some online articles and papers about it. Blockers: None
   @Sneha - Yesterday:  Researched the topics in access control policy. Today: Learnt about Access control Policy and the standards involved. Blockers: None
   @Sumit - 
 ### Day 4 - 24 Jan 2026
-  @Bharath -
+  @Bharath - I have initiated an optimization phase for our AI workflows by evaluating various prompt structures and prompt engineering frameworks to extract high-                 fidelity data from CHAT_GPT.This involved utilizing prompt optimizers to refine input strategies, ensuring that our technical deliverables are aligned                 with the project's core objectives
   @Lukesh - Started working on the prompt structures to get more in-depth information from the Chat-Gpt. Used different prompt optimizers for prompt structure.
   @Sneha - Familiarized the terms used and the various use cases. Looked into the deliverables mentioned and its purposes.
   @Sumit - 
 ### Day 5 - 25 Jan 2026
-  @Bharath -
+  @Bharath - I have initiated a comprehensive research phase using advanced AI deep-research capabilities to gain high-fidelity insights into our current policy                     framework
   @Lukesh - Used deep-research mode in Chat-Gpt to get more deep insights on policy framework. Trying iterative prompts to get more info on other Chat-Gpt suggestions.
   @Sneha - Nil
   @Sumit - 
 ### Day 6 - 26 Jan 2026
-  @Bharath -
+  @Bharath - Multi-model AI benchmarking is being used to refine the security documentation. The version control environment is live with the directory hierarchy.                  Team collaborators have been added to facilitate a 'security-first' development workflow.
   @Lukesh - Started working on the Access Control policy document. Trying different type of prompts on different AI models like Claude, Chat-Gpt, Gemini, etc.
   @Sneha - Created the Github Account and the directory structure as mentioned in the document. Added my team members as the collaborators for the public repository.
   @Sumit - 
 ### Day 7 - 27 Jan 2026
-  @Bharath -
+  @Bharath - Successfully completed a team-wide review of the Access Control Policy, incorporating collaborative insights to enhance document depth. To ensure                      consistency in our deliverables
   @Lukesh - Had a long discussion with the team about the progress and roadblockers and shared my access control policy document with them. Reviewed each other work and appreciated.
   @Sneha - Attempted to prepare prompt for access control policy document using ChatGpt prompt maker
   @Sumit - 
 ### Day 8 - 28 Jan 2026 
-  @Bharath -
+  @Bharath - I have finalized revisions to our Access Control Policy framework, incorporating critical feedback from the recent team collaboration to ensure complete               alignment with project objectives.
   @Lukesh - Completed changes in policy framework and access control core policies as per the feedback received from the team in our discussion call.
   @Sneha - Did research on the security policy document and the training document. Prepared a sample document for training requirements using AI prompts.
   @Sumit - 
 ### Day 9 - 29 Jan 2026
- @Bharath -
+ @Bharath - "I am currently developing the Implementation Guidelines for our Access Control Policy, ensuring that theoretical controls are translated into actionable               technical steps
  @Lukesh - Started working on the implementations guidelines document for the Access Control Policy. Research is in progress. Updating my Github progress parallely.
  @Sneha - Created diagrams for the architectures described in security policy document. 
  @Sumit - 
 ### Day 10 - 30 Jan 2026
- @Bharath -
+ @Bharath - The Implementation Guidelines have been updated after a thorough team review to integrate key information. The Training Requirements document has also                 been revised with the agreed-upon changes
  @Lukesh - Reviewed the raw draft of implementation guidelines with the team after collecting deep information from different sources and made the necessary changes.
  @Sneha - Revised the training requirements document with changes as dicussed in the meeting 
  @Sumit - 
 ### Day 11 - 31 Jan 2026
- @Bharath -
+ @Bharath - Reviewed the policy framework document.and suggested for few changes and add-ons
  @Lukesh - Shared the policy framework and access control policy documents to Sumit after making necessary changes for the final official draft documentation.
  @Sneha - Nil
  @Sumit - 
 ### Day 12 - 01 Feb 2026
- @Bharath -
+ @Bharath - Nil
  @Lukesh - Reviewed all the documents I created so far like Implemenation Guidelines, Access Control Core Policies, Policy Framework Design and discussed with the team members and asked for feedback. 
  @Sneha - 
  @Sumit - 
 ### Day 13 - 02 Feb 2026
- @Bharath -
+ @Bharath - Had dissucssions and decisions made suggested and reviewed the documents
  @Lukesh - Working with Sumit and sharing him the documents parallely and suggesting the changes made in the documents and providing some guidelines on the documents. 
  @Sneha - Nil
  @Sumit - 
 ### Day 14 - 03 Feb 2026
- @Bharath -
+ @Bharath - Nil
  @Lukesh - Today we had a call and and reviewed our progress as of now and the roadmap ahead in the week. 
  @Sneha -
  @Sumit - 
