@@ -35,7 +35,7 @@
   @Bharath - Completed an initial deep-dive into Agile frameworks to streamline our development workflow. Currently conducting a comprehensive review of Access                      Control strategies
   @Lukesh - Started researching on the agile methodologies and github basics for projects. Blockers: None
   @sneha - Yesterday: Learnt about Agile methodology and the terms used. Today: Research the topics in access control policy Blockers: None
-  @Sumit - Researched Access Control Policy concepts and noted key sections to include in the policy and framework documents. Started organizing documentation                structure.
+ - @Sumit - Researched Access Control Policy concepts and noted key sections to include in the policy and framework documents. Started organizing documentation                structure.
 ### Day 3 - 23 Jan 2026
   @Bharath - Following an initial literature review of Access Control Policy (ACP) frameworks, I have now progressed to analyzing the specific standards that govern                 them. I am currently examining how international protocols ISO27001    and NIST framework - 
   @Lukesh - Started researching on the Access Control Policy framework document and reviewed some online articles and papers about it. Blockers: None
