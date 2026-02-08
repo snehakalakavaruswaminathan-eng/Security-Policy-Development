@@ -37,7 +37,8 @@
 - [ ] Prepare content for the training requirements document deliverable, Review and provide suggestions on the the documents prepared.
   - sneha - 3 hours - [30 Jan 2026]
 - [ ] Gather and revise the content for the last section of the final report - Governance and maintenance for access control policy.
-  - sneha - 3 hours [2 Feb 2026] 
+  - sneha - 3 hours [2 Feb 2026]
+  - [ ] Design the presentation slides - 3 hours [4 Feb 2026]
 ## In Progress
 - [ ] Policy methodology document information is collected, and now reviewing and organizing.
   - Lukesh Singh - 5 hours
