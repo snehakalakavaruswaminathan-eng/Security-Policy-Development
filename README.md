@@ -3,8 +3,8 @@
 Sprint 1 Project for IIT Roorkee PG Certification in AI-Enabled Cybersecurity
 
 ## Team
-- Lukesh Singh : Policy Writer 
 - Bharath Vinayak : Standards specialist
+- Lukesh Singh : Policy Writer 
 - Sneha : Scrum Master
 - Sumit Patil : Documentation lead 
 
