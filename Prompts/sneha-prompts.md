@@ -59,3 +59,25 @@ Compliance Monitoring
 Implement automated monitoring tools.
 Schedule audits and generate compliance reports.
 Track remediation of non-compliance issues.
+
+# Prompt 3 
+## Date : 31 Jan 2026 - Gemini
+Develop a security framework for access control that aligns with industry standards (e.g., NIST, ISO 27001). Outline guiding principles, layered security controls, authentication models, authorization workflows, and periodic access review mechanisms
+
+# Prompt 4 
+## Date : 01 Feb 2026 - Claude
+Design Training Requirements for employees and administrators on access control. Cover topics such as secure authentication practices, authorization procedures, recognizing unauthorized access attempts, and responsibilities during access reviews.
+
+# Prompt 5
+## Date : 04 Feb 2026 - Napkin AI
+Generte a flow diagram for acces control improvement workflow: 1) Identification: Collect feedback (user surveys, help desk, incidents, benchmarking) → 2) Prioritization: Risk ranking, cost-benefit analysis, quick wins vs. strategic → 3) Implementation: Pilot programs, phased rollout, change management → 4) Measurement: Baseline metrics, effectiveness validation, ROI calculation
+
+# Prompt 6
+## Date : 04 Feb 2026 - Napkin AI
+Generate a Access Control Maturity Model Diagram with following levels and descriptions:
+Level 5 ─ Optimized ─ Zero Trust, Automation
+Level 4 ─ Managed ─ Risk-Based Access
+Level 3 ─ Defined ─ MFA, Formal IAM
+Level 2 ─ Repeatable ─ Basic RBAC
+Level 1 ─ Initial ─ Ad-Hoc Controls
+Level 0 ─ Non-Existent ─ No Controls
