@@ -1,4 +1,4 @@
-Prompt 1
+# Prompt 1
 Date : 23 Jan 2026 - OpenAI Prompt Optimizer, ChatGPT for response.
 Developer: # Role and Objective
 Design a security policy framework document for Access Control Policy, tailored to an expert audience of experienced IT professionals, cybersecurity experts, and professors. The document will serve as a research deliverable, demonstrating leadership in both research and team coordination.
@@ -50,7 +50,7 @@ Begin with a concise checklist (3-7 bullets) of what you will do; keep items con
 
 After any major section or diagram, briefly validate completeness in 1-2 sentences and indicate the next logical step in the flow. If validation fails, adjust that section before proceeding.
 
-Prompt 2
+# Prompt 2
 Date : 24 Jan 2026 - OpenAI Prompt Optimizer, ChatGPT for response.
 
 OpenAI Prompt - 4 (Policy document, 4-5 pages long)
@@ -161,7 +161,7 @@ Please Add COBIT 2019 process mapping and Add a Zero Trust Architecture overlay.
 Please Add policy metrics & KPIs, Add cloud-native (AWS/Azure) ZT reference and a section of Add diagrams for Zero Trust & Maturity Model.
 
 
-Prompt 3
+# Prompt 3
 Date : 26 Jan 2026 - OpenAI Prompt Optimizer, Used Claude and Google Gemini for response.
 Implementation guidelines:
 
@@ -266,7 +266,7 @@ For each recommendation, include:
 # Stop Conditions
 - Deliver when all sections above are addressed with actionable, properly cited, and critically analyzed guidance, meeting the needs of expert users.
 
-Prompt 4
+# Prompt 4
 Date : 27 Jan 2026 - OpenAI Prompt Optimizer, used Google Gemini for response
 Policy Methodology Documrnt:
 
@@ -335,7 +335,7 @@ After each major section or technical recommendation, briefly validate that clai
 - Submission is complete when all outlined requirements are robustly addressed, evidence-backed, and formatted according to professional standards.
 - If any core section remains insufficiently validated or does not meet assignment criteria, revisit and resolve gaps before finalizing.
 
-Prompt 5
+# Prompt 5
 Date : 29 Jan 2026 - OpenAI Prompt Optimizer, used Google Gemini and Claude for response.
 Core Policy Document (Access Control Policy):
 Developer: # Role and Objective
@@ -395,7 +395,7 @@ After completion of each major section or edit, validate that all requirements h
 Set reasoning_effort = medium, matching the complexity of this comprehensive documentation task. Ensure outputs are clear, thorough, and concise throughout.
 
 
-Prompt 6
+# Prompt 6
 Date : 02 Feb 2026 - OpenAI Prompt Optimizer, used Google Gemini, ChatGPT and Claude for response.
 USE CASE (Access Control Policy):
 
