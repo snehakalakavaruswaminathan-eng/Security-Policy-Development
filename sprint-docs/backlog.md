@@ -3,7 +3,8 @@
 - [ ] Research and create the rough or raw policy framework document and policy document for Access Control Policy. Conduct comprehensive research across industry standards. 
     -  Lukesh Singh - 6-7 hours [23 Jan 2026] 
 - [ ] Research on the various topics using prompts on the topic chosen. Learn to create the Github Repository and prepare the folder structure.
-  - Sneha - 3 hours      
+  - Sneha - 3 hours
+- [ ] Gather the requirements for the access control training requirements for an organisation.
 - [ ] Creating a professional Access Control Policy involves two distinct components: the Policy Framework, which provides the strategic methodology and structure, and       the Policy Document, which defines the specific rules and expectations
     - Bharath Vinayak - 2hours.
 ## In Progress
@@ -46,7 +47,7 @@
   - Lukesh Singh - 3 hours - [03 Feb 2026]
 - [ ] Conducted a comparative analysis of policy structures using multi-model AI validation (GPT-4, Gemini, Claude) to ensure comprehensive coverage and accuracy. Reviewed and aligned findings with the team and adjusted the changes for the Main Report.
   - Lukesh Singh - 3 hours - [03 Feb 2026]    
-- [ ] Prepare content for the training requirements document deliverable, Review and provide suggestions on the the documents prepared.
+- [ ] Prepare content for the training requirements document deliverable by a comparative analysis of results from multiple AI models. Review and provide suggestions on the the policy and the framework documents prepared by the team.
   - sneha - 3 hours - [30 Jan 2026]
 - [ ] Gather and revise the content for the last section of the final report - Governance and maintenance for access control policy.
   - sneha - 3 hours [2 Feb 2026]
@@ -56,8 +57,8 @@
   - Lukesh Singh - 5 hours [03 Feb 2026] 
 - [ ] Currently auditing and organizing the collected data for the Core Policy Section in the Main Report to ensure logical flow and structural integrity.
   - Lukesh Singh - 3 hours [03 Feb 2026] 
-- [ ] Create diagrams for representing the architecture and flow charts
-    - sneha - 2 hours
+- [ ] Create diagrams for representing the architecture and flow charts [ 03 Feb 2026 ]
+    - sneha - 3 hours
 ## Done
 - [x] Created the final version of the Access Control Policy Document by refining and structuring the raw draft provided by teammates to meet governance and academic standards
   - Sumit Patil - Completed [01 Feb 2026]
@@ -77,4 +78,5 @@ Compiling the Executive Summary by synthesizing critical insights from the Acces
  - Sumit Patil - 05 Feb 2026.
 - [x] Compiled and finalized the complete project report by integrating all sections including Abstract, Purpose, Scope, Table of Contents, Policy Framework, Policy Document, Implementation Guidelines, Training Requirements, Compliance Checklist, Executive Summary, Governance, and Conclusion. Ensured consistency, professional formatting, audit-readiness, and alignment with organizational and regulatory standards.
    - Sumit Patil - 07 Feb 2026.
-
+-[ ] Established a comprehensive access control framework that defines roles, permissions, and approval workflows across all systems and data classifications.
+Implement regular review cycles (quarterly/semi-annual) to audit user access rights, remove unnecessary permissions, and ensure compliance with least privilege principles. Documented all procedures clearly including onboarding/offboarding processes, access request workflows, escalation paths, and maintain version-controlled records of all changes for the governance plans maintenance section of thebfinal report. - sneha - [ 5 Feb 2026 ] -3 hours
